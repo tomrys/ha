@@ -26,7 +26,12 @@ Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-i
 
 **temprary _italic_**
 
-Link here: [Link text](#link here).
+## my section
+ble ble
+
+#links to sections
+
+Link to my section: [Link text](#my-section).
 
 [Onet pl](https://onet.pl)
 
